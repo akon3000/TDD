@@ -5,7 +5,11 @@
   "repository": "git@github.com:akon3000/TDD.git",
   "author": "ToNoey <vonmane001@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
   "devDependencies": {
+    "chai": "^4.2.0",
     "mocha": "^6.2.2"
   }
 }
