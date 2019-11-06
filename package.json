@@ -1,0 +1,11 @@
+{
+  "name": "TDD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:akon3000/TDD.git",
+  "author": "ToNoey <vonmane001@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
